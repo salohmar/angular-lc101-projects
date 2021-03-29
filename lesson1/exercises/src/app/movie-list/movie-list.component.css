@@ -1,5 +1,7 @@
-.movies {color: pink;
-    font-size: 20px;}
+.movies {
+    color: pink;
+    font-size: 2vw;}
 h3 {
     text-align: center;
+    text-decoration: underline;
 }
